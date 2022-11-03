@@ -1,0 +1,99 @@
+Added Component: Designator=C1(pol_cap_2x5x11_0.5_rad_flat)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://at.farnell.com/w/c/passive-bauelemente/kondensatoren/aluminium-elektrolytkondensatoren/bedrahtete-aluminium-elektrolytkondensatoren?kapazitat=1uf|2.2uf|10uf|22uf|100uf&spannung-dc-=10v|16v|25v|35v|50v|63v|100v&kondensatoranschlusse=radial-bedrahtet&anschlussabstand=2mm&produktdurchmesser=5mm&produkthohe=11mm&anschlussdurchmesser=0.5mm&range=inc-in-stock|exc-delivery-surcharge|exc-obs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100u"; VariantName = "[No Variations]"
+Added Component: Designator=D1(diode_tht)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://at.farnell.com/on-semiconductor/1n4007rlg/diode-std-erholzeit-1a-1kv-axial/dp/2317417"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://4donline.ihs.com/images/VipMasterIC/IC/ONSM/ONSM-S-A0013576855/ONSM-S-A0013902349-1.pdf?hkey=6D3A4C79FDBF58556ACFDE234799DDF0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1N4007RLG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.321"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "2317417"; VariantName = "[No Variations]"
+Added Component: Designator=D2(led_3mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://at.farnell.com/forge/fnl-u300b22cdsl/led-3mm-blau/dp/1200580"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.farnell.com/datasheets/1508743.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Forge"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FNL-U300B22CDSL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.784"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "1200580"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "blue"; VariantName = "[No Variations]"
+Added Component: Designator=J1(2.54mm_2pole)
+Added Component: Designator=J2(SF17010F-0302-21R-L)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.tube-town.net/ttstore/alpha-fussschalter-3-pol-wechsler-pcb.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.taiwanalpha.com/en/products/8?cat=61#alpha_display"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.taiwanalpha.com/downloads?target=products&id=242"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Alpha"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SF17010F-0302-21R-L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "3.98"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Tube Town"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "xsw24"; VariantName = "[No Variations]"
+Added Component: Designator=J3(2.54mm_3pole)
+Added Component: Designator=J4(2.54mm_2pole)
+Added Component: Designator=J5(1.27mm_5pole)
+Added Component: Designator=R1(res_P10mm_axial)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Supplier Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://at.farnell.com/w/c/passive-bauelemente/festwiderstande/widerstande-fur-durchsteckmontage?brand=multicomp-pro&produktpalette=mcmf&widerstandstechnologie=metallschichtwiderstand&produktlange=6.8mm&range=inc-in-stock|exc-delivery-surcharge|exc-obs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.farnell.com/datasheets/2863892.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Multicomp Pro"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MCMF006FF1002A50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "2401780"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4k7"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+9V Pin=C1-1
+Added Pin To Net: NetName=+9V Pin=D1-2
+Added Pin To Net: NetName=+9V Pin=J1-1
+Added Pin To Net: NetName=+9V Pin=J2-6
+Added Pin To Net: NetName=+9V Pin=J5-1
+Added Net: Name=+9V
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=GND Pin=J2-7
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J5-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R1-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=J3-2
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-8
+Added Pin To Net: NetName=NetJ2_1 Pin=J3-3
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Pin To Net: NetName=NetJ2_3 Pin=R1-1
+Added Net: Name=NetJ2_3
+Added Pin To Net: NetName=NetJ2_4 Pin=J2-4
+Added Pin To Net: NetName=NetJ2_4 Pin=J5-2
+Added Net: Name=NetJ2_4
+Added Pin To Net: NetName=NetJ2_5 Pin=J2-5
+Added Pin To Net: NetName=NetJ2_5 Pin=J4-2
+Added Net: Name=NetJ2_5
+Added Class: Name=foot-switch_board_01
+Added Room: Name=foot-switch_board_01

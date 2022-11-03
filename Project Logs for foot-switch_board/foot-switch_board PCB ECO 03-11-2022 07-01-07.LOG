@@ -1,0 +1,19 @@
+Change Component Footprint: Designator=J5 Old Footprint=1.27mm_5pole New Footprint=1.27mm_5pole_edge
+Added Component: Designator=C2(CAP_5mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Supplier Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://at.farnell.com/w/c/passive-bauelemente/kondensatoren/keramikkondensatoren/keramik-vielschichtkondensatoren-mlcc-bedrahtet?anschlussabstand=5mm&range=inc-in-stock|exc-delivery-surcharge|exc-obs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Numer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Menufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+9V Pin=C2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=J5-3
+Added Pin To Net: NetName=NetJ2_3 Pin=J5-5
+Added Member To Class: ClassName=foot-switch_board_01 Member=Component C2 cap_tht_5mm
